@@ -6,7 +6,7 @@
 ## Grid of line charts
 <div class="flourish-embed flourish-chart" data-src="visualisation/8564450"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-## Line graph (Top 3)
+## Tangled lines
 <div class="flourish-embed flourish-chart" data-src="visualisation/8564817"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Analysis
