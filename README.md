@@ -12,7 +12,7 @@ After the course, I hope I'll be good at picking good chart types, colors, sizes
 # Portfolio
 - Data visualization critique #1
 - [Data visualization #2: Visualizing government debt](/dataviz2.md)
-- Assignment 3&4: Critique by Design
+- [Assignment 3&4: Critique by Design] (/assi3&4.md)
 - Final Project, part one
 - Final Project, part two 
 - Final Project, part three
