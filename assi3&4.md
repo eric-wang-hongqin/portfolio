@@ -59,5 +59,11 @@ Put label and legend at a good place.
 
 ## Final Visualization
 
+<div class="flourish-embed flourish-map" data-src="visualisation/8626041"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/8637293"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/8626187"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 
 [Back to Main Page](/README.md)
