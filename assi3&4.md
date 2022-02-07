@@ -1,14 +1,14 @@
 # GDP by State, 2021-2022
 
 ## Original Data Visulizaition
-[Image] (original_viz.png)
+![Image] (original_viz.png)
 
-[Source] (https://worldpopulationreview.com/state-rankings/gdp-by-state)
+[Source Link] (https://worldpopulationreview.com/state-rankings/gdp-by-state)
 
 ## Wireframe
-[Image] (wireframe1.jpeg)
+![Image] (wireframe1.jpeg)
 
-[Image] (wireframe2.jpeg)
+![Image] (wireframe2.jpeg)
 
 ## FeedBack
 
