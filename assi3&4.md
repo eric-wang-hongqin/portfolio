@@ -3,7 +3,7 @@
 ## Original Data Visulizaition
 [Image] (original_viz.png)
 
-[Sources] (https://worldpopulationreview.com/state-rankings/gdp-by-state)
+[Source] (https://worldpopulationreview.com/state-rankings/gdp-by-state)
 
 ## Wireframe
 [Image] (wireframe1.jpeg)
