@@ -20,41 +20,41 @@ In the second wireframe, I tend to highlight top 10 states with largest GDP. I t
 
 Interview 1:
 - Can you tell me what you think this is?
-* This is very straight forward to understand, this is GDP by State, as the title suggests. *
+*This is very straight forward to understand, this is GDP by State, as the title suggests.*
 
 - Is there anything you find surprising or confusing?
-* Not really, they are simple and staright forward. *
+*Not really, they are simple and staright forward.*
 
 - Which color scheme do you prefer (all blue vs blue/orange)?
-* All blues are great. But it could be better to highlight the top 10. *
+*All blues are great. But it could be better to highlight the top 10.*
 
 - Do you prefer pie or bar chart when it comes to top 10 countries.
-* Pie, it tells the percentage. I believe percentage makes more sense. *
+*Pie, it tells the percentage. I believe percentage makes more sense.*
 
 - Who do you think is the intended audience for this?
-* This might be for students who is studying economics and currently doing an research. *
+*This might be for students who is studying economics and currently doing an research.*
 
 - Is there anything you would change or do differently?
-* The title can includs more information. *
+*The title can includs more information.*
 
 Interview 2:
 - Can you tell me what you think this is?
-* GDP by State, Top states stats. *
+*GDP by State, Top states stats.*
 
 - Is there anything you find surprising or confusing?
-* No, quite clear. *
+*No, quite clear.*
 
 - Which color scheme do you prefer (all blue vs blue/orange)?
-* Try blue/orange if you want your audience to look at both top and bottom. Otherwise use all blue to only highlight top ones. *
+*Try blue/orange if you want your audience to look at both top and bottom. Otherwise use all blue to only highlight top ones.*
 
 - Do you prefer pie or bar chart when it comes to top 10 countries.
-* Why not try both, because they are telling different things, and usually the audience want to look at both. *
+*Why not try both, because they are telling different things, and usually the audience want to look at both.*
 
 - Who do you think is the intended audience for this?
-* Might be students or economic researchers. *
+*Might be students or economic researchers.*
 
 - Is there anything you would change or do differently?
-* Put label and legend at a good place. *
+*Put label and legend at a good place.*
 
 
 ## Final Visualization
