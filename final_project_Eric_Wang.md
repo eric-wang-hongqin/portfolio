@@ -24,6 +24,11 @@ Major data sourses (but this list will increase as I found more data):
 - [Statista: Media usage](https://www.statista.com/statistics/195140/new-user-generated-content-uploaded-by-users-per-minute/)
 - [Statista: Leading iPhone apps in the Apple App Store worldwide in October 2021, by revenue](https://www.statista.com/statistics/271103/top-iphone-apps-worldwide-by-revenue/)
 - [Statista: Most popular global mobile messenger apps as of October 2021](https://www.statista.com/statistics/258749/most-popular-global-mobile-messenger-apps/)
+- [American Time Use Survey Summary](https://www.bls.gov/tus/a1-2019.pdf)
+
+The data can be download in csv format. Firstly, I will use Excel to process data, if there is calculation need, that would be done with Excel. Then the cleaned, formated data will be input to Flourish or Tableau, then produce the graph. Finally, the graph will be inserted to the Shorthand site at the proper place to facilite story.
+
+The mobile population data will be used to compared with world population. Teens'screen time will be uesd to produce country map visulaization (described in sketch). American Time Use Survey Summary will be used to produce daily time usage projection. I will keep searching for data about mobile usage by applicaiton or application category. 
 
 ## Method and Platform
 
