@@ -14,7 +14,7 @@ After the course, I hope I'll be good at picking good chart types, colors, sizes
 - [Data visualization #2: Visualizing government debt](/dataviz2.md)
 - [Assignment 3&4: Critique by Design](/assi3&4.md)
 - [Final Project, part one](/final_project_Eric_Wang.md)
-- Final Project, part two 
+- [Final Project, part two](/final_project_Eric_Wang_part2.md) 
 - Final Project, part three
 
 
