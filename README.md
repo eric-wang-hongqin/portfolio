@@ -16,6 +16,7 @@ After the course, I hope I'll be good at picking good chart types, colors, sizes
 - [Final Project, part one](/final_project_Eric_Wang.md)
 - [Final Project, part two](/final_project_Eric_Wang_part2.md) 
 - [Final Project, part three](/final_project_Eric_Wang_part3.md) 
+- [Final Project End Product](https://carnegiemellon.shorthandstories.com/impact-of-smartphones-on-students-and-young-professionals/index.html)
 
 
 
