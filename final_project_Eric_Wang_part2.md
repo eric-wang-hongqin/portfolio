@@ -22,4 +22,10 @@ Changes made: I moved the "5-year ownership graph" to the first section. Not dec
 
 Things to add in part-3: In part 3, I will add more details. First, in the problem part, I would add details about the problems. Hopefully, I can think of a way to add data visuals to each problem. Second, in the last part, I would try some creative way to represent the 3 things. Additionally, I would like to read some research, to see if I could add something about mental health, which would add value to this article. My initial target audience were young adult, because they are the group that has the highest ownership percentage. But in the problem and action part, I did not focus on their needs. I would try to make changes for them in part 3.
 
+## Navigation
+
+[To part 1](/final_project_Eric_Wang.md)
+
+[To part 3](final_project_Eric_Wang_part3.md)
+
 [Back to Main](/README.md)
