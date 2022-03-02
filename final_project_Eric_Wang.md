@@ -34,4 +34,10 @@ The mobile population data will be used to compared with world population. Teens
 
 I will use Shorthand as my working flatform for my final project. Flourish and Tableau will be used for data visulization production. In case of some graph is not support by Flourish or Tableau, other online tools will be considered.
 
+## Navigation
+
+[To part 2](final_project_Eric_Wang_part2.md)
+
+[To part 3](final_project_Eric_Wang_part3.md)
+
 [Back to Main](/README.md)
