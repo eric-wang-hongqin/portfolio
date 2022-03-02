@@ -21,6 +21,8 @@ After making a major change in part 3 to focus on the people aged between 18 and
 [Shorthand](https://carnegiemellon.shorthandstories.com/impact-of-smartphones-on-students-and-young-professionals/index.html)
 
 
+## Navigation
+
 [To part 1](/final_project_Eric_Wang_part.md)
 
 [To part 2](final_project_Eric_Wang_part2.md)
