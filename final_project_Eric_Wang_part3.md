@@ -20,6 +20,8 @@ After making a major change in part 3 to focus on the people aged between 18 and
 ## Final Product Design
 [Shorthand](https://carnegiemellon.shorthandstories.com/impact-of-smartphones-on-students-and-young-professionals/index.html)
 
+The final product is produced with Shorthand. I followed the logic: 
+
 
 ## Navigation
 
