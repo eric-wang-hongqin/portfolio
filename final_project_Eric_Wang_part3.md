@@ -23,7 +23,7 @@ After making a major change in part 3 to focus on the people aged between 18 and
 
 ## Navigation
 
-[To part 1](/final_project_Eric_Wang_part.md)
+[To part 1](/final_project_Eric_Wang.md)
 
 [To part 2](final_project_Eric_Wang_part2.md)
 
