@@ -18,9 +18,11 @@ The third problem is the calling for action part is missing a lot of details and
 After making a major change in part 3 to focus on the people aged between 18 and 29, my target audience is fixed to the same group of people, or parents who are caring about someone in this age group. The reason I picked this group is they are the group of people that has the highest percentage of smartphone ownership and are suffering the most. Also, being in the same age group, I can contribute more personal feelings and understandings. 
 
 ## Final Product Design
-[Shorthand] (https://carnegiemellon.shorthandstories.com/impact-of-smartphones-on-students-and-young-professionals/index.html)
+[Shorthand](https://carnegiemellon.shorthandstories.com/impact-of-smartphones-on-students-and-young-professionals/index.html)
 
 
 [To part 1](/final_project_Eric_Wang_part.md)
+
 [To part 2](final_project_Eric_Wang_part2.md)
+
 [Back to Main](/README.md)
