@@ -15,13 +15,14 @@ The third problem is the calling for action part is missing a lot of details and
 
 
 ## Thinking about Audience 
-After making a major change in part 3 to focus on the people aged between 18 and 29, my target audience is fixed to the same group of people, or parents who are caring about someone in this age group. The reason I picked this group is they are the group of people that has the highest percentage of smartphone ownership and are suffering the most. Also, being in the same age group, I can contribute more personal feelings and understandings. 
+After making a major change in part 3 to focus on the people aged between 18 and 29, my target audience is the same group of people whose age is between 18-29, or parents whose children are in this age range. The reason I picked this group is because they are the group of people that has the highest percentage of smartphone ownership and are suffering from the mobile addiction. Also, being in the same age group, I can contribute more personal feelings and understandings. This group of people are primarly students and young professionals. They understand the technologies, and they want to try new technologies. But at the same time, they have heavy duty of learning from schools or workplace. So mobile addicition has many specific impact to them, which are main focus in my project.
 
 ## Final Product Design
 [Shorthand](https://carnegiemellon.shorthandstories.com/impact-of-smartphones-on-students-and-young-professionals/index.html)
 
-The final product is produced with Shorthand. I followed the logic: 
+The final product is produced on Shorthand. All data visulizaiton are produced on Fourish. I will cover mobile and internet background, and the increasing trend of people getting smartphones. Then I approached to the negative impact of mobile addition on students and young professionals. Finally, I would want to give tips to people who is suffuring the mobile addictions. 
 
+The produce backgroud photos are mobile and smarktphone related, which is used to created some association. Colors are used in both headlines and data visulizations to emphsis trends and keywords.
 
 ## Navigation
 
